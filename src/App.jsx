@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import LastMinuteLifeSaver from './last-minute-life-saver'
+import LastMinuteLifeSaver from './LastMinuteLifeSaver'
 
 function App() {
   return (
